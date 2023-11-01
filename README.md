@@ -37,3 +37,7 @@ Brain-computer interfaces: Refining cognitive models for improved interaction an
 AI personalities: Create more human-like AI entities with distinct personalities.
 Generative narrative worlds: Craft intricate story worlds driven by dynamic characters.
 Behavior prediction & analysis: Enhance the prediction and analysis of behavior over time.
+
+# Related Manuscripts in Preparation
+Computational Psychodynamics: Process-Based Framework for Modeling Cognition and Personality Using Active Inference: 
+Delve deeper into the theory of Computational Psychodynamics and its applications in modeling event-driven personality and cognition in generative story worlds.
